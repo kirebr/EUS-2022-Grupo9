@@ -1,4 +1,7 @@
-# Interações
+# Protótipo
+
+A prototipação começará com a produção de um protótipo de baixa fidelidade (wireframe) para validação inicial, depois irá evoluir para um protótipo de alta fidelidade.
+Utilizaremos o Figma para as duas etapas da prototipação. 
 
 ## Projeto do Protótipo
 
