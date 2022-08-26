@@ -10,11 +10,12 @@ Os participantes serão os alunos da disciplina de Experiência do Usuário de S
 
 ## Processo
 
-Os participantes receberão um link de acesso ao protótipo. https://www.figma.com/proto/3BouSZzPDmVwEkjrNSf8zA/app-qual-filme?node-id=202%3A5250&scaling=contain&page-id=202%3A5106&starting-point-node-id=202%3A5250
+Os participantes receberão um link de acesso ao protótipo.
+https://www.figma.com/proto/3BouSZzPDmVwEkjrNSf8zA/app-qual-filme?node-id=202%3A5250&scaling=contain&page-id=202%3A5106&starting-point-node-id=202%3A5250
 Os participantes realizarão algumas tarefas pré-definidas.
-O teste será realizado por dois mediadores, onde um irá conduzir e orientar os participantes e o outro irá realizar as devidas anotações. 
-O teste terá duração de no máximo 10 minutos para cada participante. 
-Será solicitado ao participante que narre toda as suas ações durante o teste. 
+O teste será realizado por dois mediadores, onde um irá conduzir e orientar os participantes e o outro irá realizar as devidas anotações.
+O teste terá duração de no máximo 10 minutos para cada participante.
+Será solicitado ao participante que narre toda as suas ações durante o teste.
 O teste será cronometrado para utilização de parâmetro do teste de aprendizado.
 O mediador responsável pelas anotações irá anotar todo comportamento que o participante tenha durante o teste. Desde facilidades, dificuldades e sentimentos possíveis encontrados pelo no uso do aplicativo. 
 
