@@ -10,7 +10,7 @@ Os participantes serão os alunos da disciplina de Experiência do Usuário de S
 
 ## Processo
 
-- Os participantes receberão o link de acesso ao [protótipo](https://www.figma.com/proto/3BouSZzPDmVwEkjrNSf8zA/app-qual-filme?node-id=202%3A5250&scaling=contain&page-id=202%3A5106&starting-point-node-id=202%3A5250)
+- Os participantes receberão o link de acesso ao [protótipo](https://bit.ly/appmuuvie)
 - Os participantes realizarão algumas tarefas pré-definidas.
 - Os participantes receberão um link para um [questionário](https://survey.zohopublic.com/zs/p5CCP2) a ser respondido após a execução das tarefas. Esse questionário é baseada na escala Likert.
 - Os participantes terão o prazo de uma semana para executar as atividades propostas. 
@@ -30,12 +30,3 @@ Os participantes serão os alunos da disciplina de Experiência do Usuário de S
 
 - **Tarefa 3: Marcar um filme como assistido**
 	- Descrição: Após algum tempo utilizando o aplicativo, você deseja marcar os filmes que já assistiu para não receber uma indicação repetida.
-
-
-
-
-
-
-
-
-
