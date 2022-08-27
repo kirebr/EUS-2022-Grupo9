@@ -10,7 +10,7 @@ Os participantes serão os alunos da disciplina de Experiência do Usuário de S
 
 ## Processo
 
-- Os participantes receberão o link de acesso ao [protótipo](https://www.figma.com/proto/3BouSZzPDmVwEkjrNSf8zA/app-qual-filme?node-id=202%3A5250&scaling=contain&page-id=202%3A5106&starting-point-node-id=202%3A5250)
+- Os participantes receberão o link de acesso ao [protótipo](https://bit.ly/appmuuvie)
 - Os participantes realizarão algumas tarefas pré-definidas.
 - O teste será realizado por dois mediadores, onde um irá conduzir e orientar os participantes e o outro irá realizar as devidas anotações.
 - O teste terá duração de no máximo 10 minutos para cada participante.
