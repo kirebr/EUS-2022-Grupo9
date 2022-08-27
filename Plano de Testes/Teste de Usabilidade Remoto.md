@@ -2,7 +2,7 @@
 
 ## Objetivos
 
-O nosso teste de usabilidade focará no sentimento que a pessoa sentiu utilizando o aplicativo Qual o Filme? Além de um produto, queremos oferecer uma experiência para o usuário, queremos deixar o aplicativo o mais humano possível de forma que as pessoas que utilizarem ele, se sintam confortável e tenham bons sentimentos em relação ao aplicativo. Por isso o principal foco desse teste é entender qual sentimento nosso aplicativo está passando para as pessoas. 
+O nosso teste de usabilidade focará no sentimento que a pessoa sentiu utilizando o aplicativo muuvie. Além de um produto, queremos oferecer uma experiência para o usuário, queremos deixar o aplicativo o mais humano possível de forma que as pessoas que utilizarem ele, se sintam confortável e tenham bons sentimentos em relação ao aplicativo. Por isso o principal foco desse teste é entender qual sentimento nosso aplicativo está passando para as pessoas. 
 
 ## Participantes
 
