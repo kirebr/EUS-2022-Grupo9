@@ -1,6 +1,6 @@
 # EUS-2022-Grupo9
 
-## Qual o Filme?
+## muuvie - Seu filme em alguns muu's
 
 Quem nunca se sentou na sala ou se deitou na cama e foi colocar um filme para assistir e se perguntou: Qual o filme vou assistir hoje? E a partir desse momento você fica minutos, dependendo até horas passando por um catálogo até decidir o que assistir. 
 
